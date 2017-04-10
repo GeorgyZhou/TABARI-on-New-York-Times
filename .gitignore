@@ -1,0 +1,7 @@
+Events/*
+Errors/*
+Abstract/*
+FullText/*
+*.text
+*.project
+.idea/*
